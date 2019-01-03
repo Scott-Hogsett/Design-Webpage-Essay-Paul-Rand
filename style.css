@@ -47,16 +47,10 @@ blockquote cite {
 }
 
 blockquote {
-    opacity: 0.8;
     font-size: 1.75em;
     hanging-punctuation: first;
     color: #4b638e;
-    
-}
-
-blockqoute {
     display: block
-    
 }
 
 .cite {
@@ -69,6 +63,14 @@ blockqoute {
 
 img {
     padding: 1.2em;
+    
+}
+
+hr {
+    border-color: #4b638e;
+    width: 80%;
+    
+    
     
 }
 
